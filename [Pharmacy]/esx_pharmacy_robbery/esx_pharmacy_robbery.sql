@@ -1,3 +1,3 @@
 INSERT INTO `items` (name, label, weight, rare, can_remove) VALUES
-	('Ketamine', 'Ketamine', 1)
+	('Ketamine', 'Ketamine', 1,1,1)
 ;
