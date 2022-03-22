@@ -3,11 +3,11 @@ Config.Locale = 'en'
 
 Config.RequiredCopsRob = 0
 Config.RequiredCopsSell = 1
-Config.MinKetamine = 10 
-Config.MaxKetamine = 25
+Config.MinKetamines = 10 
+Config.MaxKetamines = 25
 Config.MaxWindows = 8
 Config.SecBetwNextRob = 3600 --1 hour
-Config.MaxKetamineSell = 20
+Config.MaxKetaminesSell = 20
 Config.PriceForOneKetamine = 500
 Config.EnableMarker = true
 Config.NeedBag = false
