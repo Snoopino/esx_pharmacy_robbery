@@ -115,8 +115,8 @@ AddEventHandler('esx_pharmacy_robbery:gioielli', function()
 	xPlayer.addInventoryItem('Ketamine', math.random(Config.MinKetamines, Config.MaxKetamines))
 end)
 
-RegisterServerEvent('lester:vendita')
-AddEventHandler('lester:vendita', function()
+RegisterServerEvent('michael:vendita')
+AddEventHandler('michael:vendita', function()
 
 	local _source = source
 	local xPlayer = ESX.GetPlayerFromId(_source)
